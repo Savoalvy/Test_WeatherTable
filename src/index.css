@@ -1,0 +1,32 @@
+:root {
+  --colorPageBg: #f4f7fb;
+  --colorSurface: #fff;
+  --colorTextPrimary: #17202a;
+  --colorTextSecondary: #5c6876;
+  --colorBorder: #d8e0ea;
+  --colorAccent: #1f6feb;
+  --colorAccentSoft: #e7f0ff;
+  --colorWarning: #b45309;
+
+  font-family: Montserrat, Arial, sans-serif;
+  font-synthesis: none;
+  color: var(--colorTextPrimary);
+  text-rendering: optimizeLegibility;
+
+  background: var(--colorPageBg);
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}

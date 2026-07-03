@@ -1,0 +1,110 @@
+[2m17:45:50[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/features/theme-toggle/ui/ThemeToggle.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m17:45:50[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/features/theme-toggle/index.ts (resolved id: D:/projects/weather-mui-grid/src/features/theme-toggle/index.ts) in D:/projects/weather-mui-grid/src/app/App.tsx. Does the file exist?
+[2m17:45:50[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/entities/weather/model/weatherRows.ts (resolved id: D:/projects/weather-mui-grid/src/entities/weather/model/weatherRows.ts) in D:/projects/weather-mui-grid/src/widgets/weather-grid/ui/WeatherGrid.tsx. Does the file exist?
+[2m17:45:50[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/app/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m17:45:50[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/widgets/weather-grid/ui/WeatherGrid.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m18:21:14[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/widgets/weather-grid/model/weatherRows.ts (resolved id: D:/projects/weather-mui-grid/src/widgets/weather-grid/model/weatherRows.ts) in D:/projects/weather-mui-grid/src/widgets/weather-grid/ui/WeatherGrid.tsx. Does the file exist?
+[2m18:21:14[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/widgets/weather-grid/ui/WeatherGrid.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m18:24:16[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Каир, Каир, Египет`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m18:33:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Каир, Каир, Египет`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m19:34:50[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:34:56[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:34:59[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:01[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:05[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:08[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:11[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:16[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:35:19[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:37:08[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:33[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:36[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:38[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:41[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:44[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:49[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:38:52[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:41:31[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:41:31[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m19:41:34[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:41:34[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m19:41:37[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:41:37[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m19:43:30[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:43:30[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m19:46:24[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:46:24[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m19:50:20[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m19:58:28[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:02:12[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:02:12[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:05:46[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:05:46[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:07:55[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:07:55[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:10:23[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Каир, Каир, Египет`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m20:16:44[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:16:44[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:19:32[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:19:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:28:21[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:28:22[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:31:30[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:33:19[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:33:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:38:58[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:38:58[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:39:02[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mMUI X: The page size `10` is not present in the `pageSizeOptions`.
+Add it to show the pagination select.
+[2m20:39:02[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:39:45[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:41:42[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:45:42[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:45:55[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Каир, Каир, Египет`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m20:48:56[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mYou are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used.
+[2m20:48:58[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:54:00[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m20:54:08[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m21:09:20[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m21:09:30[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m21:14:43[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] SyntaxError: The requested module '/src/shared/config/index.ts?t=1783102483521' does not provide an export named 'APP_SHADOW'
+[2m21:14:43[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/app/providers/ThemeProvider/ui/AppThemeProvider.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m21:16:09[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m21:28:32[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mYou are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used.
+[2m21:28:33[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+[2m21:33:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/components/theme-toggle/index.ts (resolved id: D:/projects/weather-mui-grid/src/components/theme-toggle/index.ts) in D:/projects/weather-mui-grid/src/pages/weather-page/ui/WeatherPage.tsx. Does the file exist?
+[2m21:33:07[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/components/city-autocomplete/index.ts (resolved id: D:/projects/weather-mui-grid/src/components/city-autocomplete/index.ts) in D:/projects/weather-mui-grid/src/widgets/weather-grid/ui/WeatherGridToolbar.tsx. Does the file exist?
+[2m21:36:56[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReact does not recognize the `noRowsVariant` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `norowsvariant` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
