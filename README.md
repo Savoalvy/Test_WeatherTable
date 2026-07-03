@@ -130,4 +130,5 @@ npm run build
 
 ## Деплой
 
-Ссылка на деплой добавляется после публикации на Netlify, GitHub Pages или другом хостинге.
+Ссылка на репозиторий github - https://github.com/Savoalvy/Test_WeatherTable
+https://weather-mui-grid.netlify.app/
